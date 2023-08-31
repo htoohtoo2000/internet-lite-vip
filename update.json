@@ -1,27 +1,29 @@
+{
+   "files": [   
 
 {
-// 
-"Version":"1.1",
-//link for server update
-"Url":"https://github.com/htoohtoo2000/internet-lite-vip/raw/main/vpf.zip" ,
-"Changelog":"
-ဖိုင်အသစ်တွေရဖို့ အပ်ဒိတ် လုပ်လိုက်ပါဗျာ့
-
-အသုံးပြုနိုင်သောဆင်းကဒ်
-🔰DTAC NOPRO🔰
-
-Server by 🇲🇲Myo Min Tun🇲🇲
-",
+         "name": "dtac_internet_1",
+         "url": "https://raw.githubusercontent.com/htoohtoo2000/internet-lite-vip/main/dtac%20internet_1.ovpn"
+      },
+      
+    {
+         "name": "dtac_internet_2",
+         "url": "https://raw.githubusercontent.com/htoohtoo2000/internet-lite-vip/main/dtac%20internet_2.ovpn"
+      },  
 
 
- 
- 
- 
-// don't mess with the bottom
-"latestVersion": "1.0.0",
-"latestVersionCode": "",
-"url": "",
- "releaseNotes": [
- "-Demo"
-  ]
+      
+      {
+         "name": "truemove_internet_1",
+         "url": "https://raw.githubusercontent.com/htoohtoo2000/internet-lite-vip/main/truemove%20internet_1.ovpn" 
+      },
+      
+      {
+         "name": "truemove_internet_2",
+         "url": "https://raw.githubusercontent.com/htoohtoo2000/internet-lite-vip/main/truemove%20internet%20_2.ovpn" 
+      }
+   ],
+"message":" \nตรงนี้จะเขียนอะไรก็เขียนครับรองรับ NOPRO Dtac  True\nDTAC NOPRO\nTRUE NOPRO\nเซิร์ฟเวอร์ไม่แรง\nต้องขออภัยมาใน ณ ที่นี้ด้วยครับ\n คอนฟิกเวอร์ชั่น: 2.2 \nอัพเดทเมื่อวันที่: 20/12/2022\n \nผู้พัฒนาแอพ:NOOKER\n  ",
+   "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
+   "version": 1.0
 }
