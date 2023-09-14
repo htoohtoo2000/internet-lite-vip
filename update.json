@@ -1,7 +1,7 @@
 
 {
 // 
-"Version":"1.3",
+"Version":"1.4",
 //link for server update
 "Url":"https://github.com/htoohtoo2000/internet-lite-vip/raw/main/net%20freenet.zip" ,
 "Changelog":"
@@ -31,4 +31,4 @@ Server by 🇲🇲Rose.Net🇲🇲
  "-Demo"
   ]
 }
-
+  { "version": 5}
